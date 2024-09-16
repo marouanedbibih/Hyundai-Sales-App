@@ -23,7 +23,7 @@
 
 **Hyundai Sales Management System** is a comprehensive solution designed to streamline Hyundai vehicle sales and after-sales processes. The application facilitates efficient management of clients, vehicles, sales, and after-sales services. Built with a modern tech stack, this project integrates a Next.js frontend, a Spring Boot backend, and a MySQL database, all managed and deployed using Docker.
 
-![https://prod-files-secure.s3.us-west-2.amazonaws.com/67299f30-41e6-47c9-a1c7-33129495314b/df259d5c-875f-4742-8f17-ee03a6e84f74/d57ce35e-8a50-4459-a331-38837029c3e6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/67299f30-41e6-47c9-a1c7-33129495314b/df259d5c-875f-4742-8f17-ee03a6e84f74/d57ce35e-8a50-4459-a331-38837029c3e6.png)
+![1726502420238](images/README/1726502420238.png)
 
 ## Features
 
