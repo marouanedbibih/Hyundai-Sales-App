@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/marouanedbibih/hyundai-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/marouanedbibih/hyundai-frontend
+[submodule "sql-scripts"]
+	path = sql-scripts
+	url = https://github.com/marouanedbibih/hyundai-sql-scripts
